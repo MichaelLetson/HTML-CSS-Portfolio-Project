@@ -1,5 +1,6 @@
 body {
     background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 /* navigation */
@@ -29,8 +30,53 @@ nav a:hover {
     color: rgb(53, 134, 180);
 }
 
-/* temp: to move sections out of navigation */
+/* meet the therapists */
 
-section {
+#meet {
+    height: 225px;
     clear: both;
+    padding: 30px;
 }
+
+#therapist1 {
+    width: 50%;
+    float: left;
+}
+
+#therapist2 {
+    width: 50%;
+    float: right;
+}
+
+#therapist1 img {
+    width: 300px;
+    height: 300px;
+    float: right;
+    padding: 5px;
+    border-radius: 50%;
+    margin: 0 auto;
+    object-fit: cover;
+}
+
+#therapist2 img {
+    width: 300px;
+    height: 300px;
+    float: left;
+    padding: 5px;
+    border-radius: 50%;
+    margin: 0 auto;
+    object-fit: cover;
+}
+
+#therapist1 p {
+    text-align: center;
+    width: 25%;
+    float: right;
+}
+
+#therapist2 p {
+    text-align: center;
+    width: 25%;
+    float: left;
+}
+
