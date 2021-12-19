@@ -174,3 +174,21 @@ span a {
     font-size: large;
     padding: 30px;
 }
+
+/* footer */
+
+footer {
+    width: 100%;
+    height: 175px;
+}
+
+footer h2 {
+    color: rgb(92, 151, 247);
+}
+
+footer div {
+    width: 30%;
+    font-size: small;
+    padding: 30px;
+    margin-left: 75px;
+}
