@@ -1,6 +1,11 @@
+
 body {
     background-color: whitesmoke;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    opacity: 0.2;
 }
 
 /* navigation */
@@ -27,7 +32,7 @@ nav a {
 
 nav a:hover {
     border-bottom: 1px solid;
-    color: rgb(53, 134, 180);
+    color: rgb(92, 151, 247);
 }
 
 /* meet the therapists */
@@ -39,8 +44,9 @@ nav a:hover {
     margin: 100px;
 }
 
-#meet > a {
+span a {
     text-decoration: none;
+    color: rgb(92, 151, 247);
 }
 
 #therapist1 {
@@ -99,9 +105,9 @@ nav a:hover {
     width: 1200px;
     height: 225px;
     clear: both;
-    margin: 75px;
+    margin: 100px;
     padding: 50px;
-    background-color: rgb(53, 134, 180, 0.5);
+    background-color: rgb(92, 151, 247, 0.5);
 }
 
 #counselling h2 {
@@ -125,9 +131,9 @@ nav a:hover {
     width: 1200px;
     height: 225px;
     clear: both;
-    margin: 75px;
+    margin: 100px;
     padding: 50px;
-    background-color: rgb(53, 134, 180, 0.5);
+    background-color: rgb(92, 151, 247, 0.5);
 }
 
 #hypnotherapy h2 {
@@ -142,4 +148,20 @@ nav a:hover {
     text-align: center;
     word-spacing: 1px;
     color: whitesmoke;
+}
+
+/* contact */
+
+#contact {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: x-large;
+    color: rgb(92, 151, 247);
+    height: 300px;
+    padding: 10px;
+    margin: 30px;
+}
+
+#contact p {
+    text-transform: uppercase;
 }
