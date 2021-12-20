@@ -35,6 +35,20 @@ nav a:hover {
     color: rgb(92, 151, 247);
 }
 
+/* Welcome message */
+
+#welcome {
+    width: 50%;
+    margin-left: 25%;
+    padding: 30px;  
+    text-align: center;
+    text-transform: capitalize;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(92, 151, 247, 0.7);
+    
+}
+
 /* meet the therapists */
 
 #meet {
