@@ -8,6 +8,10 @@ hr {
     opacity: 0.2;
 }
 
+header {
+    height: 300px;
+}
+
 /* navigation */
 
 nav {
@@ -40,13 +44,21 @@ nav a:hover {
 #welcome {
     width: 50%;
     margin-left: 25%;
-    padding: 30px;  
+    padding: 25px;  
     text-align: center;
     text-transform: capitalize;
     font-size: xx-large;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(92, 151, 247, 0.7);
-    
+}
+
+/* testamonials */
+
+#testamonials {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: small;
+    color: slategray;
 }
 
 /* meet the therapists */
@@ -107,7 +119,7 @@ span a {
 
 /* services */
 
-#services {
+.background-image {
     background: url(../images/Room.jpg) no-repeat center center fixed;
     background-size: cover;
     height: 1000px;
@@ -116,7 +128,7 @@ span a {
 /* counselling */
 
 #counselling {
-    width: 1200px;
+    width: auto;
     height: 200px;
     clear: both;
     margin: 100px;
@@ -143,7 +155,7 @@ span a {
 /* hypnotherapy */
 
 #hypnotherapy {
-    width: 1200px;
+    width: 100%x;
     height: 200px;
     clear: both;
     margin: 100px;
@@ -185,8 +197,8 @@ span a {
 
 #find {
     width: 30%;
-    font-size: large;
-    padding: 30px;
+    font-size: x-large;
+    padding: 25px;
 }
 
 /* footer */
@@ -205,4 +217,92 @@ footer div {
     font-size: small;
     padding: 30px;
     margin-left: 75px;
+}
+
+/* for screens with max width of 1200px and down */
+
+@media screen and (max-width: 1200px) {
+        
+    #logo {
+        width: 30%;
+    }
+        
+    nav  {
+            clear: left;
+    }
+
+    nav a {
+        float: left;
+    }
+       
+    hr {
+        display: none;
+    }
+
+    #meet {
+        width: atuo;
+        margin: auto;
+        height: 350px;
+    }
+
+    #counselling {
+        width: auto;
+        height: 200px;
+        clear: both;
+        margin: 100px;
+        display: inline-block;
+        padding: 50px;
+        background-color: rgb(92, 151, 247, 0.6);
+    }
+}
+
+/* for screens with max width of 950px and down */
+
+@media screen and (max-width: 950px) {
+    
+    header {
+        height: 600px;
+    }
+
+    #logo {
+        width: 50%;
+        height: auto;
+        margin: 50px;
+    }
+
+    nav {
+        height: 350px;
+        margin: 30px;
+    }
+    
+    nav a {
+        height: auto;
+        clear: left;
+        margin-top: 15px;
+        font-size: x-large;
+    }
+
+    #welcome {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    
+    #testamonials {
+        font-size: large;
+    }
+
+    #meet {
+        height: 900px;
+        margin: 30px;
+    }
+
+    #therapist1 {
+        clear: left;
+        float: left;
+    }
+
+    #therapist2 {
+        clear: left;
+        float: right;
+    }
 }
