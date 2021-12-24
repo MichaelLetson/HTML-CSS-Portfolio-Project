@@ -52,15 +52,6 @@ nav a:hover {
     color: rgb(92, 151, 247, 0.7);
 }
 
-/* testamonials */
-
-#testamonials {
-    text-transform: uppercase;
-    text-decoration: none;
-    font-size: small;
-    color: slategray;
-}
-
 /* meet the therapists */
 
 #meet {
@@ -70,7 +61,7 @@ nav a:hover {
     margin: 100px;
 }
 
-span a {
+div a {
     text-decoration: none;
     color: rgb(92, 151, 247);
 }
@@ -201,6 +192,14 @@ span a {
     padding: 25px;
 }
 
+/* iframe - google maps */
+
+iframe.maps {
+    width: 100%;
+    height: 450px;
+    border: 0;
+}
+
 /* footer */
 
 footer {
@@ -285,10 +284,6 @@ footer div {
     #welcome {
         margin-top: 30px;
         margin-bottom: 30px;
-    }
-    
-    #testamonials {
-        font-size: large;
     }
 
     #meet {
