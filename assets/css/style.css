@@ -215,7 +215,15 @@ footer div {
 
 /* for screens with max width of 1200px and down */
 @media screen and (max-width: 1200px) {
-        
+    
+    header {
+        height: 15rem;
+    }
+
+    #welcome {
+        font-size: larger;
+    }
+
     #logo {
         width: 30%;
     }
@@ -227,15 +235,26 @@ footer div {
     nav a {
         float: left;
     }
-       
-    hr {
-        display: none;
-    }
-
+   
     #meet {
         width: auto;
         margin: auto;
-        height: 350px;
+        height: 55rem;
+        padding: 7rem 0 7rem 0;
+    }
+
+    #therapist1, #therapist2 {
+        height: 30rem;
+        width: 70%;
+        clear: both;
+    }
+
+    #therapist1 {
+        float: right;
+    }
+
+    #therapist2 {
+        float: left;
     }
 
     #counselling {
@@ -251,13 +270,12 @@ footer div {
 
 /* for screens with max width of 950px and down */
 @media screen and (max-width: 950px) {
-    
     header {
-        height: 37.5rem;
+        height: 50rem;
     }
 
     #logo {
-        width: 50%;
+        width: 75%;
         height: auto;
         margin: 50px;
     }
@@ -286,20 +304,20 @@ footer div {
 
     #therapist1 {
         clear: left;
-        float: left;
+        float: right;
     }
 
     #therapist2 {
         clear: left;
-        float: right;
+        float: left;
     }
 }
 
 @media screen and (max-width: 780px) {
     header {
-        height: 30rem;
+        height: 35rem;
     }
-    
+
     nav {
         height: 13rem;
         width: 100%;
@@ -307,14 +325,27 @@ footer div {
 
     nav a {
         margin: 1rem;
+        font-size: larger;
     }
 
     #welcome {
-        height: 15rem;
+        width: 60%;
+        height: 7rem;
+        margin-left: 20%;
     }
 
     #meet {
         height: 58rem;
+    }
+
+    #therapist1 {
+        width: 100%;
+        margin: 1.5rem;
+    }
+
+    #therapist2 {
+        width: 100%;
+        margin: 1.5rem;
     }
 
     .background-image {
@@ -333,5 +364,79 @@ footer div {
         margin: 3rem 0 3rem 0;
         padding: 1rem 0 1rem 0;
     }
+}
 
+@media screen and (max-width: 420px) {
+    #logo {
+        width: 50%; 
+    }
+
+    header {
+        height: 25rem;
+    }
+
+    #welcome {
+        width: auto;
+        height: 5rem;
+        margin: auto;
+    }
+
+    #welcome h1 {
+        font-size: larger;
+    }
+
+    #meet {
+        height: 65rem;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    #therapist2, #therapist1 {
+        float: left;
+        margin: 0;
+    }
+
+    #therapist2 img {
+        margin: 1rem;
+        padding: 1rem;
+        width: 15rem;
+        height: 15rem;
+        float: left;
+    }
+
+    #therapist1 img {
+        margin: 1rem;
+        padding: 1rem;
+        width: 15rem;
+        height: 15rem;
+        float: left;
+    }
+    
+    .background-image {
+        width: 100%;
+        height: 58rem;
+    }
+
+    #counselling {
+        height: 21rem;
+    }
+
+    #hypnotherapy {
+        height: 21rem;
+    }
+
+    #contact {
+        width: 100%;
+        margin: 0;
+        padding: 2rem 0 2rem 0;
+    }
+
+    #contact p {
+        font-size: medium;
+    }
+
+    #find {
+        width: 75%;
+    }
 }
