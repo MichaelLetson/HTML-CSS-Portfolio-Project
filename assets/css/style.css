@@ -229,11 +229,12 @@ footer div {
     }
         
     nav  {
-            clear: left;
+        clear: left;
     }
 
     nav a {
         float: left;
+        margin: 2.5rem;
     }
    
     #meet {
@@ -338,7 +339,28 @@ footer div {
         height: 58rem;
     }
 
-    #therapist1 {
+    #therapist2, #therapist1 {
+        float: left;
+        margin: 0;
+    }
+
+    #therapist2 img {
+        margin: 1rem;
+        padding: 1rem;
+        width: 15rem;
+        height: 15rem;
+        float: left;
+    }
+
+    #therapist1 img {
+        margin: 1rem;
+        padding: 1rem;
+        width: 15rem;
+        height: 15rem;
+        float: left;
+    }
+
+    /* #therapist1 {
         width: 100%;
         margin: 1.5rem;
     }
@@ -346,7 +368,7 @@ footer div {
     #therapist2 {
         width: 100%;
         margin: 1.5rem;
-    }
+    } */
 
     .background-image {
         width: 100%;
@@ -438,5 +460,9 @@ footer div {
 
     #find {
         width: 75%;
+    }
+
+    footer {
+        margin-left: 1rem;
     }
 }
