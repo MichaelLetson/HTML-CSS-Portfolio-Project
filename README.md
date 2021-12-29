@@ -3,7 +3,7 @@
 Welcome to my website, created for TalkLiveCounselling - a start-up business created by my family. 
 The site offers counselling and therapy solutions to those who need it.
 
-To see the website, click <a href:"https://michaelletson.github.io/HTML-CSS-Portfolio-Project/">here</a> 
+To see the website, view it here: https://michaelletson.github.io/HTML-CSS-Portfolio-Project/ 
 
 <h2>Who is the website for and it's purpose?</h2> 
 
