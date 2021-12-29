@@ -3,7 +3,7 @@
 Welcome to my website, created for TalkLiveCounselling - a start-up business created by my family. 
 The site offers counselling and therapy solutions to those who need it. 
 
-Who is the website for and it's purpose? 
+<h2>Who is the website for and it's purpose?</h2> 
 
 People who are in search of professional pyschological help and looking for a counsellor or therapist to speak to. The website should give the user a quick solution to find the prospective counsellor/therapist and offer quick means of contact. Whilst also offering some insight into the area of expertise offered by the owner of the site. 
 
@@ -13,7 +13,7 @@ The owner of T.L.C, the two counsellors/therapists - rely on this website to gai
 
 HTML Validator: 
 
-During writing up the inital code for this site, I had put my HTML through the validator to help stop any errors, there was an error with me using <span> for the Meet the Therapists section for each of the two Therapists, quickly rectified by changing the <span> to a <div>. The only other errors were spelling errors and using HTML to style the <iframe> - to rectify this I styled in CSS. 
+During writing up the inital code for this site, I had put my HTML through the validator to help stop any errors, there was an error with me using span for the Meet the Therapists section for each of the two Therapists, quickly rectified by changing the span to a div. The only other errors were spelling errors and using HTML to style the iframe - to rectify this I styled in CSS. 
   
  At the end of writing the code, I submitted again through the validator to only find the one error, as per below. To fix, the space was removed and code then passed sucessfully.
 
