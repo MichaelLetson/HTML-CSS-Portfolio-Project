@@ -55,3 +55,13 @@ Again, with my CSS code I had submitted the code through a validator during the 
 <h2>Lighthouse Report:</h2>
 
 ![image](https://user-images.githubusercontent.com/93741957/147678419-20ade7b9-4c34-4770-b4c6-3a03d2e88e77.png)
+
+<h2>Deployment:</h2>
+
+To deploy website, I followed the below steps on Github.
+
+<ol>
+  <li>Go to 'Settings' in repository.</li>
+  <li>On 'Source' of 'GitHub Pages', select 'Main' for Branch and click save</li>
+  <li>The website is now published on GitHub Pages and the link is provided on on the same section</li>
+</ol>
