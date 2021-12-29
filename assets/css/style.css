@@ -146,7 +146,7 @@ div a {
 /* hypnotherapy */
 #hypnotherapy {
     width: auto;
-    height: 12rem;
+    height: 13rem;
     clear: both;
     margin: 6rem;
     padding: 3rem;
@@ -336,7 +336,7 @@ footer div {
     }
 
     #meet {
-        height: 58rem;
+        height: 50rem;
     }
 
     #therapist2, #therapist1 {
@@ -360,16 +360,6 @@ footer div {
         float: left;
     }
 
-    /* #therapist1 {
-        width: 100%;
-        margin: 1.5rem;
-    }
-
-    #therapist2 {
-        width: 100%;
-        margin: 1.5rem;
-    } */
-
     .background-image {
         width: 100%;
         height: 42rem;
@@ -390,7 +380,7 @@ footer div {
 
 @media screen and (max-width: 420px) {
     #logo {
-        width: 50%; 
+        width: 75%; 
     }
 
     header {
@@ -408,7 +398,7 @@ footer div {
     }
 
     #meet {
-        height: 65rem;
+        height: 60rem;
         width: 100%;
         margin: 0;
         padding: 0;
@@ -416,7 +406,7 @@ footer div {
 
     #therapist2, #therapist1 {
         float: left;
-        margin: 0;
+        margin-left: 2rem;
     }
 
     #therapist2 img {
@@ -445,7 +435,7 @@ footer div {
     }
 
     #hypnotherapy {
-        height: 21rem;
+        height: 22rem;
     }
 
     #contact {
@@ -462,7 +452,8 @@ footer div {
         width: 75%;
     }
 
-    footer {
+    footer div {
         margin-left: 1rem;
+        padding: 0;
     }
 }
