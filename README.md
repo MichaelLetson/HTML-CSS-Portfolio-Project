@@ -7,11 +7,11 @@ The site offers counselling and therapy solutions to those who need it.
 
 People who are in search of professional pyschological help and looking for a counsellor or therapist to speak to. The website should give the user a quick solution to find the prospective counsellor/therapist and offer quick means of contact. Whilst also offering some insight into the area of expertise offered by the owner of the site. 
 
-The owner of the website. 
+<h2>The owner of the website</h2>
 
 The owner of T.L.C, the two counsellors/therapists - rely on this website to gain interaction with people searching for consultation or wanting to book in a session. The site needs to be streamline and offer a direct route of contact to the owner in order to effectively run the business, if the information on the site is conveluted then the prospective customer, who may be in a state of angst or depression, may be less likely to take the plunge and reach out.
 
-HTML Validator: 
+<h2>HTML Validator:</h2>
 
 During writing up the inital code for this site, I had put my HTML through the validator to help stop any errors, there was an error with me using span for the Meet the Therapists section for each of the two Therapists, quickly rectified by changing the span to a div. The only other errors were spelling errors and using HTML to style the iframe - to rectify this I styled in CSS. 
   
@@ -20,7 +20,7 @@ During writing up the inital code for this site, I had put my HTML through the v
 ![image](https://user-images.githubusercontent.com/93741957/147665078-bb7128b2-8005-447c-8cbb-9f40a564837c.png)
 ![image](https://user-images.githubusercontent.com/93741957/147665848-4c099c60-82a5-4bf9-bb67-e697e3678060.png)
 
-CSS Validator: 
+<h2>CSS Validator:</h2>
   
 Again, with my CSS code I had submitted the code through a validator during the write up period - to which a few spelling errors were highlighted and rectified. The code now passes with no errors. 
 
