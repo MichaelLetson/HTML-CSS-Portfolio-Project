@@ -33,7 +33,7 @@ The owner of T.L.C, the two counsellors/therapists - rely on this website to gai
 
 <h2>Owner, and improvements</h2>
 The owner wouldn't interact with the website as such, they would only edit or amend the page when information needs amended, removed or expanded upon. 
-An option for a section to highlight feedback or recomendments would be included once to the website gains more traffic, user interaction and customers gained by T.L.C.
+An option for a section to highlight feedback or recomendations would be included once to the website gains more traffic, user interaction and customers gained by T.L.C.
 
 <h2>HTML Validator:</h2>
 
