@@ -26,7 +26,9 @@ The owner of T.L.C, the two counsellors/therapists - rely on this website to gai
 <h3>User fullfillment</h3>
 <ul>
   <li>Navigation and single scroll functionality allows for easy of movement within the site</li>
-
+  <li>Contact phone numbers and email provided in a Contact Us section</li>
+  <li>iFrame implemented to enable user to find location via Google Maps</li>
+  <li>Informative content on services offered, presented in an eye catching way with background image of where the sessions would take place</li>
 </ul>
 
 
