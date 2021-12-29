@@ -18,20 +18,20 @@ The owner of T.L.C, the two counsellors/therapists - rely on this website to gai
 # User Experience
 
 ## From the customer's perspective:
-<ul>
-  <li>As a user I want to be able to navigate and locate relevant information</li>
-  <li>As a user I want to easily find contact details of a professional who can help</li>
-  <li>As a user I want to be able to see the location of the business</li>
-  <li>As a user I want to be able to read up on the solutions on offer</li>
-</ul>
+
+  - As a user I want to be able to navigate and locate relevant information
+  - As a user I want to easily find contact details of a professional who can help
+  - As a user I want to be able to see the location of the business
+  - As a user I want to be able to read up on the solutions on offer
+
 
 ## User fullfillment
-<ul>
-  <li>Navigation and single scroll functionality allows for easy of movement within the site</li>
-  <li>Contact phone numbers and email provided in a Contact Us section</li>
-  <li>iFrame implemented to enable user to find location via Google Maps</li>
-  <li>Informative content on services offered, presented in an eye catching way with background image of where the sessions would take place</li>
-</ul>
+
+  - Navigation and single scroll functionality allows for easy of movement within the site
+  - Contact phone numbers and email provided in a Contact Us section
+  - iFrame implemented to enable user to find location via Google Maps
+  - Informative content on services offered, presented in an eye catching way with background image of where the sessions would take place
+
 
 # Owner, and improvements
 The owner wouldn't interact with the website as such, they would only edit or amend the page when information needs amended, removed or expanded upon. 
