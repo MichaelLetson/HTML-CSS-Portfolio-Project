@@ -1,7 +1,15 @@
 ![Logo2](https://user-images.githubusercontent.com/93741957/147664655-e3b6b478-7146-42b3-a4fb-b8b3feb1c57d.png)
 
 Welcome to my website, created for TalkLiveCounselling - a start-up business created by my family. 
+The site offers counselling and therapy solutions to those who need it. 
 
+Who is the website for and it's purpose? 
+
+People who are in search of professional pyschological help and looking for a counsellor or therapist to speak to. The website should give the user a quick solution to find the prospective counsellor/therapist and offer quick means of contact. Whilst also offering some insight into the area of expertise offered by the owner of the site. 
+
+The owner of the website. 
+
+The owner of T.L.C, the two counsellors/therapists - rely on this website to gain interaction with people searching for consultation or wanting to book in a session. The site needs to be streamline and offer a direct route of contact to the owner in order to effectively run the business, if the information on the site is conveluted then the prospective customer, who may be in a state of angst or depression, may be less likely to take the plunge and reach out.
 
 HTML Validator: 
 
