@@ -10,4 +10,6 @@ During writing up the inital code for this site, I had put my HTML through the v
  At the end of writing the code, I submitted again through the validator to only find the one error, as per below. To fix, the space was removed and code then passed sucessfully.
 
 ![image](https://user-images.githubusercontent.com/93741957/147665078-bb7128b2-8005-447c-8cbb-9f40a564837c.png)
+![image](https://user-images.githubusercontent.com/93741957/147665848-4c099c60-82a5-4bf9-bb67-e697e3678060.png)
+
 
