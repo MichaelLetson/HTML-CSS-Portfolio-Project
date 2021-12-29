@@ -52,6 +52,6 @@ Again, with my CSS code I had submitted the code through a validator during the 
 
 ![image](https://user-images.githubusercontent.com/93741957/147666040-f4669d88-30ba-47b8-932d-40304f57cf36.png)
 
-<h2>Lighthouse Report</h2>
+<h2>Lighthouse Report:</h2>
 
 ![image](https://user-images.githubusercontent.com/93741957/147678419-20ade7b9-4c34-4770-b4c6-3a03d2e88e77.png)
