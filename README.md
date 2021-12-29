@@ -32,6 +32,13 @@ The owner of T.L.C, the two counsellors/therapists - rely on this website to gai
   - iFrame implemented to enable user to find location via Google Maps
   - Informative content on services offered, presented in an eye catching way with background image of where the sessions would take place
 
+### Mobile visual:
+
+![image](https://user-images.githubusercontent.com/93741957/147694048-8c1be9ca-fdf2-497a-a937-0430e83489cb.png)
+
+### Desktop visual: 
+
+![image](https://user-images.githubusercontent.com/93741957/147694158-ce3786b8-d914-4353-bb1b-41b2e8e03ea1.png)
 
 # Owner, and improvements
 The owner wouldn't interact with the website as such, they would only edit or amend the page when information needs amended, removed or expanded upon. 
@@ -66,6 +73,14 @@ Again, with my CSS code I had submitted the code through a validator during the 
 
 To deploy website, I followed the below steps on Github.
 
-  - Go to 'Settings' in repository
+- Go to 'Settings' in repository
   - On 'Source' of 'GitHub Pages', select 'Main' for Branch and click save
   - The website is now published on GitHub Pages and the link is provided on on the same section
+
+## Using Git
+
+I created a respository and opened in gitpod to create my code. To move my code from gitpod to repository ready for deployment I followed these steps: 
+ - git add .
+ - git commit -m "message"
+ - git push
+ - git pull --rebase
