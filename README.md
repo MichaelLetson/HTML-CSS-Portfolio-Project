@@ -39,11 +39,9 @@ An option for a section to highlight feedback or recomendations would be include
 
 # Testing:
 
-<ul>
-  <li>Website tested on Chrome, Edge, Samsung internet</li>
-  <li>Moblie, Tablet and Laptop have all tested the website with no visual errors and maintains functionality</li>
-  <li>Used Chrome Dev Tool to test site, including when testing styling for media queries</li>
-</ul>
+  - Website tested on Chrome, Edge, Samsung internet
+  - Moblie, Tablet and Laptop have all tested the website with no visual errors and maintains functionality
+  - Used Chrome Dev Tool to test site, including when testing styling for media queries
 
 # HTML Validator:
 
@@ -68,8 +66,6 @@ Again, with my CSS code I had submitted the code through a validator during the 
 
 To deploy website, I followed the below steps on Github.
 
-<ol>
-  <li>Go to 'Settings' in repository.</li>
-  <li>On 'Source' of 'GitHub Pages', select 'Main' for Branch and click save</li>
-  <li>The website is now published on GitHub Pages and the link is provided on on the same section</li>
-</ol>
+  - Go to 'Settings' in repository
+  - On 'Source' of 'GitHub Pages', select 'Main' for Branch and click save
+  - The website is now published on GitHub Pages and the link is provided on on the same section
