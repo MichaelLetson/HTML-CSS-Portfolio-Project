@@ -39,7 +39,11 @@ An option for a section to highlight feedback or recomendations would be include
 
 <h2>Testing:</h2>
 
-<h3></h3>
+<ul>
+  <li>Website tested on Chrome, Edge, Samsung internet</li>
+  <li>Moblie, Tablet and Laptop have all tested the website with no visual errors and maintains functionality</li>
+  <li>Used Chrome Dev Tool to test site, including when testing styling for media queries</li>
+</ul>
 
 <h2>HTML Validator:</h2>
 
