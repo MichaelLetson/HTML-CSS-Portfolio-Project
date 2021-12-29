@@ -7,17 +7,17 @@ To see the website, view it here: https://michaelletson.github.io/HTML-CSS-Portf
 
 ![image](https://user-images.githubusercontent.com/93741957/147678956-a1805889-af32-4b96-80b6-792f66e59244.png)
 
-#Who is the website for and it's purpose? 
+# Who is the website for and it's purpose? 
 
 People who are in search of professional pyschological help and looking for a counsellor or therapist to speak to. The website should give the user a quick solution to find the prospective counsellor/therapist and offer quick means of contact. Whilst also offering some insight into the area of expertise offered by the owner of the site. 
 
-#The owner of the website
+# The owner of the website
 
 The owner of T.L.C, the two counsellors/therapists - rely on this website to gain interaction with people searching for consultation or wanting to book in a session. The site needs to be streamline and offer a direct route of contact to the owner in order to effectively run the business, if the information on the site is conveluted then the prospective customer, who may be in a state of angst or depression, may be less likely to take the plunge and reach out.
 
-#User Experience
+# User Experience
 
-##From the customer's perspective:
+## From the customer's perspective:
 <ul>
   <li>As a user I want to be able to navigate and locate relevant information</li>
   <li>As a user I want to easily find contact details of a professional who can help</li>
@@ -25,7 +25,7 @@ The owner of T.L.C, the two counsellors/therapists - rely on this website to gai
   <li>As a user I want to be able to read up on the solutions on offer</li>
 </ul>
 
-##User fullfillment
+## User fullfillment
 <ul>
   <li>Navigation and single scroll functionality allows for easy of movement within the site</li>
   <li>Contact phone numbers and email provided in a Contact Us section</li>
@@ -33,11 +33,11 @@ The owner of T.L.C, the two counsellors/therapists - rely on this website to gai
   <li>Informative content on services offered, presented in an eye catching way with background image of where the sessions would take place</li>
 </ul>
 
-<h2>Owner, and improvements</h2>
+# Owner, and improvements
 The owner wouldn't interact with the website as such, they would only edit or amend the page when information needs amended, removed or expanded upon. 
 An option for a section to highlight feedback or recomendations would be included once to the website gains more traffic, user interaction and customers gained by T.L.C.
 
-<h2>Testing:</h2>
+# Testing:
 
 <ul>
   <li>Website tested on Chrome, Edge, Samsung internet</li>
@@ -45,7 +45,7 @@ An option for a section to highlight feedback or recomendations would be include
   <li>Used Chrome Dev Tool to test site, including when testing styling for media queries</li>
 </ul>
 
-<h2>HTML Validator:</h2>
+# HTML Validator:
 
 During writing up the inital code for this site, I had put my HTML through the validator to help stop any errors, there was an error with me using span for the Meet the Therapists section for each of the two Therapists, quickly rectified by changing the span to a div. The only other errors were spelling errors and using HTML to style the iframe - to rectify this I styled in CSS. 
   
@@ -54,17 +54,17 @@ During writing up the inital code for this site, I had put my HTML through the v
 ![image](https://user-images.githubusercontent.com/93741957/147665078-bb7128b2-8005-447c-8cbb-9f40a564837c.png)
 ![image](https://user-images.githubusercontent.com/93741957/147665848-4c099c60-82a5-4bf9-bb67-e697e3678060.png)
 
-<h2>CSS Validator:</h2>
+# CSS Validator:
   
 Again, with my CSS code I had submitted the code through a validator during the write up period - to which a few spelling errors were highlighted and rectified. The code now passes with no errors. 
 
 ![image](https://user-images.githubusercontent.com/93741957/147666040-f4669d88-30ba-47b8-932d-40304f57cf36.png)
 
-<h2>Lighthouse Report:</h2>
+# Lighthouse Report:
 
 ![image](https://user-images.githubusercontent.com/93741957/147678419-20ade7b9-4c34-4770-b4c6-3a03d2e88e77.png)
 
-<h2>Deployment:</h2>
+# Deployment:
 
 To deploy website, I followed the below steps on Github.
 
