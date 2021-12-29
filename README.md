@@ -37,6 +37,10 @@ The owner of T.L.C, the two counsellors/therapists - rely on this website to gai
 The owner wouldn't interact with the website as such, they would only edit or amend the page when information needs amended, removed or expanded upon. 
 An option for a section to highlight feedback or recomendations would be included once to the website gains more traffic, user interaction and customers gained by T.L.C.
 
+<h2>Testing:</h2>
+
+<h3></h3>
+
 <h2>HTML Validator:</h2>
 
 During writing up the inital code for this site, I had put my HTML through the validator to help stop any errors, there was an error with me using span for the Meet the Therapists section for each of the two Therapists, quickly rectified by changing the span to a div. The only other errors were spelling errors and using HTML to style the iframe - to rectify this I styled in CSS. 
