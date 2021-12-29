@@ -5,6 +5,8 @@ The site offers counselling and therapy solutions to those who need it.
 
 To see the website, view it here: https://michaelletson.github.io/HTML-CSS-Portfolio-Project/ 
 
+![image](https://user-images.githubusercontent.com/93741957/147678956-a1805889-af32-4b96-80b6-792f66e59244.png)
+
 <h2>Who is the website for and it's purpose?</h2> 
 
 People who are in search of professional pyschological help and looking for a counsellor or therapist to speak to. The website should give the user a quick solution to find the prospective counsellor/therapist and offer quick means of contact. Whilst also offering some insight into the area of expertise offered by the owner of the site. 
