@@ -13,6 +13,23 @@ People who are in search of professional pyschological help and looking for a co
 
 The owner of T.L.C, the two counsellors/therapists - rely on this website to gain interaction with people searching for consultation or wanting to book in a session. The site needs to be streamline and offer a direct route of contact to the owner in order to effectively run the business, if the information on the site is conveluted then the prospective customer, who may be in a state of angst or depression, may be less likely to take the plunge and reach out.
 
+<h2>User Experience</h2>
+
+<h3>From the customer's perspective:</h3>
+<ul>
+  <li>As a user I want to be able to navigate and locate relevant information</li>
+  <li>As a user I want to easily find contact details of a professional who can help</li>
+  <li>As a user I want to be able to see the location of the business</li>
+  <li>As a user I want to be able to read up on the solutions on offer</li>
+</ul>
+
+<h3>User fullfillment</h3>
+<ul>
+  <li>Navigation and single scroll functionality allows for easy of movement within the site</li>
+
+</ul>
+
+
 <h2>HTML Validator:</h2>
 
 During writing up the inital code for this site, I had put my HTML through the validator to help stop any errors, there was an error with me using span for the Meet the Therapists section for each of the two Therapists, quickly rectified by changing the span to a div. The only other errors were spelling errors and using HTML to style the iframe - to rectify this I styled in CSS. 
