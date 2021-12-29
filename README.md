@@ -7,17 +7,17 @@ To see the website, view it here: https://michaelletson.github.io/HTML-CSS-Portf
 
 ![image](https://user-images.githubusercontent.com/93741957/147678956-a1805889-af32-4b96-80b6-792f66e59244.png)
 
-<h2>Who is the website for and it's purpose?</h2> 
+#Who is the website for and it's purpose? 
 
 People who are in search of professional pyschological help and looking for a counsellor or therapist to speak to. The website should give the user a quick solution to find the prospective counsellor/therapist and offer quick means of contact. Whilst also offering some insight into the area of expertise offered by the owner of the site. 
 
-<h2>The owner of the website</h2>
+#The owner of the website
 
 The owner of T.L.C, the two counsellors/therapists - rely on this website to gain interaction with people searching for consultation or wanting to book in a session. The site needs to be streamline and offer a direct route of contact to the owner in order to effectively run the business, if the information on the site is conveluted then the prospective customer, who may be in a state of angst or depression, may be less likely to take the plunge and reach out.
 
-<h2>User Experience</h2>
+#User Experience
 
-<h3>From the customer's perspective:</h3>
+##From the customer's perspective:
 <ul>
   <li>As a user I want to be able to navigate and locate relevant information</li>
   <li>As a user I want to easily find contact details of a professional who can help</li>
@@ -25,7 +25,7 @@ The owner of T.L.C, the two counsellors/therapists - rely on this website to gai
   <li>As a user I want to be able to read up on the solutions on offer</li>
 </ul>
 
-<h3>User fullfillment</h3>
+##User fullfillment
 <ul>
   <li>Navigation and single scroll functionality allows for easy of movement within the site</li>
   <li>Contact phone numbers and email provided in a Contact Us section</li>
