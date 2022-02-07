@@ -62,8 +62,7 @@ nav a:hover {
     height: 19rem;
     clear: both;
     padding: 2rem;
-    margin: 6rem;
-    width: 100%;
+    margin: 6rem 0 6rem 0;
 }
 
 div a {
