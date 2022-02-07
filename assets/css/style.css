@@ -55,6 +55,7 @@ nav a:hover {
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(92, 151, 247, 0.7);
     color: whitesmoke;
+    border-radius: 8px;
 }
 
 /* meet the therapists*/
