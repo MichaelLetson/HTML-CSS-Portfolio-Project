@@ -11,7 +11,8 @@ hr {
 }
 
 header {
-    height: 13rem;
+    height: 8rem;
+    width: 100%;
 }
 
 .container {
@@ -21,13 +22,13 @@ header {
 /* navigation */
 nav {
     width: 100%;
-    height: 11rem;
+    height: 7rem;
 }
 
 #logo {
     float: left;
     width: 25%;
-    height: 10rem;
+    height: 8rem;
 }
 
 nav a {
@@ -46,16 +47,16 @@ nav a:hover {
 
 /* Welcome message */
 #welcome {
-    width: 100%;
     height: 8rem;
     padding: 0.1rem;  
     text-align: center;
     text-transform: capitalize;
     font-size: xx-large;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(92, 151, 247, 0.7);
+    background-color: rgb(92, 151, 247, 0.4);
     color: whitesmoke;
     border-radius: 8px;
+    text-shadow:1px 1px 1px black;
 }
 
 /* meet the therapists*/
@@ -200,10 +201,19 @@ iframe.maps {
     border: 0;
 }
 
+/* Back to top button */
+#top {
+    position: fixed;
+    text-align: center;
+    color: red;
+    height: 12rem;
+
+}
+
 /* footer */
 footer {
     width: 100%;
-    height: 11rem;
+    height: 10rem;
 }
 
 footer h2 {
