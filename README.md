@@ -40,7 +40,7 @@ The owner of T.L.C, the two counsellors/therapists - rely on this website to gai
 
 ![image](https://user-images.githubusercontent.com/93741957/147694158-ce3786b8-d914-4353-bb1b-41b2e8e03ea1.png)
 
-# Owner, and improvements
+# Owner, and improvements:
 The owner wouldn't interact with the website as such, they would only edit or amend the page when information needs amended, removed or expanded upon. 
 An option for a section to highlight feedback or recomendations would be included once to the website gains more traffic, user interaction and customers gained by T.L.C.
 
